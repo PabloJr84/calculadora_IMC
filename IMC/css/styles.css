@@ -127,3 +127,19 @@ margin-bottom: 0.6rem;
 #back-btn {
     align-self:center ;
 }
+
+.good{
+    color: #12db34;
+}
+.low{
+    color: #dbce12;
+}
+.midium{
+    color: #db6212;
+}
+.good{
+    color: #12db34;
+}
+.high{
+    color: #db1912;
+}
