@@ -143,3 +143,9 @@ margin-bottom: 0.6rem;
 .high{
     color: #db1912;
 }
+.container2{
+    
+    min-height: 400px;
+    background-color: #9d9ead;
+    padding: 2rem;
+}
