@@ -67,9 +67,12 @@ button{
     color: #fff;
     cursor: pointer;
     opacity: 0.9;
-    flex:1 ;
+    flex: 1;
 }
 
-button:houver{
+button:hover{
     opacity: 1;
+}
+#clear-btn{
+    background-color: #444;
 }
